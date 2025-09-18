@@ -1,2 +1,2 @@
-# illogical-impulse
-Customised version of end-4's quickshell configuration
+# ii-qs
+nix flake wrapper around end-4's `illogical-impulse` quickshell configuration
